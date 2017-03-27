@@ -1,0 +1,10 @@
+iaws\multiLivre\ws\generatedClasses\ResultType.class
+iaws\multiLivre\ws\interfaceService\MultiLivreService.class
+iaws\multiLivre\ws\generatedClasses\BibliothequeType.class
+iaws\multiLivre\ws\implmInterface\ImplMultiLivreService.class
+iaws\multiLivre\ws\contractfirst\multiLivreEndPoint.class
+iaws\multiLivre\ws\generatedClasses\ErrorType.class
+iaws\multiLivre\ws\generatedClasses\ResponseType.class
+iaws\multiLivre\ws\contractfirst\XmlHelper.class
+iaws\multiLivre\ws\generatedClasses\RequestType.class
+iaws\multiLivre\ws\generatedClasses\AuteurType.class
